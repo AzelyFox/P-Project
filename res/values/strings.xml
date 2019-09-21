@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">P_Project</string>
+	<string name="title_section1">준비하기</string>
+	<string name="title_section2">시작하기</string>
+	<string name="title_section3">확인-GPS</string>
+	<string name="title_section4">확인-카메라</string>
+	<string name="title_section5">확인-원격</string>
+	<string name="title_section6">발사하기</string>
+	
+</resources>
