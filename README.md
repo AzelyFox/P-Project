@@ -1,50 +1,27 @@
-# P-Project
+<h1 align="center">
+  <img src="logo.png" alt="P-Project" width="240">
+  <br>
+  <p>P-Project</p>
+</h1>
 
-이 애플리케이션이 설치된 기기에 특정 명령어를 문자로 보내면 해당하는 정보를 답장으로 받게 됩니다.
+<p align="center">
+    <a href="#license">
+        <img src="https://img.shields.io/github/license/LIMECAKE/P-Project?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/P-Project/releases">
+        <img src="https://img.shields.io/github/v/release/LIMECAKE/P-Project?style=flat-square" />
+    </a>
+    <a href="https://github.com/LIMECAKE/P-Project/issues">
+        <img src="https://img.shields.io/badge/SUPPORT-END-black?style=flat-square" />
+    </a>
+</p>
 
-설치가 끝난후 한번 실행후 종료해 주세요.
-휴대전화가 재부팅 된경우 다시 어플리케이션이 자동으로 문자 감지를 시작합니다.
+<p align="center">
+Android application which controls phone, used to atmospheric-stratosphere photograph project.
+</p>
 
-명령어는 문자로 애플리케이션이 설치된 기기에 보내야 하며, 문자를 보낸 휴대기기 번호로 답장이 갑니다.
+## Disclaimer
+This Android project targets up to Android version 16
 
-
-## Commands
-
-- 생존
- - 휴대기기가 켜진 상태인지 확인시켜줍니다
-
-- 상태
- - 배터리 잔량,온도,카메라 실행여부,gps 사용여부를 확인시켜줍니다
-
-- 플래시
- - 플래시를 1초 간격으로 8번 깜빡입니다
-
-- 사이렌
- - 사이렌을 최대 볼륨으로 약 1분 30초간 실행합니다
-
-- 위치알림
- - 플래시 기능과 사이렌 기능을 동시에 실행합니다
-
-- 진동
- - 10초간 최대 세기로 진동합니다
-
-- 녹화중지
- - 녹화중이라면 녹화를 중지합니다
-
-- GPS_STATE
- - 휴대기기 gps가 켜져 있는지 확인해줍니다
-
-- GPS_SEND
- - 현재 기기의 GPS 좌표를 전송합니다
- - 기기의 gps가 꺼져 있어도 작동합니다
-
-- GPS_TRACK_ON
- - GPS 좌표가 갱신될 때마다 자동으로 문자로 좌표를 보냅니다.
-
-- GPS_TRACK_OFF
- - GPS 갱신 자동 문자 전송 기능을 끕니다
-
-
-## disclaimer
- - 해당 프로젝트는 2014년 기준으로 개발되었습니다.
- - 개발 최적화 OS는 Android 4.0 입니다.
+## License
+[MIT](LICENSE) © 2020 LimeCake <limecake23@gmail.com>
