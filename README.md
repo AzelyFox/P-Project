@@ -6,12 +6,12 @@
 
 <p align="center">
     <a href="#license">
-        <img src="https://img.shields.io/github/license/LIMECAKE/P-Project?style=flat-square" />
+        <img src="https://img.shields.io/github/license/AzelyFox/P-Project?style=flat-square" />
     </a>
-    <a href="https://github.com/LIMECAKE/P-Project/releases">
-        <img src="https://img.shields.io/github/v/release/LIMECAKE/P-Project?style=flat-square" />
+    <a href="https://github.com/AzelyFox/P-Project/releases">
+        <img src="https://img.shields.io/github/v/release/AzelyFox/P-Project?style=flat-square" />
     </a>
-    <a href="https://github.com/LIMECAKE/P-Project/issues">
+    <a href="https://github.com/AzelyFox/P-Project/issues">
         <img src="https://img.shields.io/badge/SUPPORT-END-black?style=flat-square" />
     </a>
 </p>
